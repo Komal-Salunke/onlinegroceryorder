@@ -1,0 +1,70 @@
+/*
+Author Anuradha Sankpal
+Theme: Restaurant Food Order
+version:1.0
+*/
+
+*{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    border: 1px solid red;
+    width: 80%;
+    margin: 0 auto;
+    padding: 1%;
+}
+ 
+.img-responsive{
+    width: 100%;
+}
+
+.text-right{
+    text-align: right;
+}
+
+
+.clearfix{
+    clear: both;
+    float:none;
+}
+
+a{
+   color:#f94877;
+   text-decoration: none;
+}
+
+a:hover{
+    color: #df2029;
+}
+/* css for navbar section*/
+.logo{
+      border: 1px solid black;
+    width: 10%;
+    float: left;
+    
+}
+.menu{
+    line-height: 100px;
+}
+
+.menu ul{
+    list-style-type: none;
+}
+
+.menu ul li{
+    display: inline;
+    padding: 1%;
+    font-weight: bold;
+}
+
+/* css for food search section*/
+
+.food-search{
+    background-image: url(../images/new\ image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 9% 0;
+}

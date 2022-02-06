@@ -1,0 +1,242 @@
+
+
+*{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+	width: 80%;
+	
+	margin: 0 auto;
+	padding:1%;
+}
+
+.cont{
+	padding:1% ;
+	height:400px;
+}
+.contain{
+	padding:1% ;
+	height:740px;
+	
+}
+
+ .img-responsive{
+ 	width: 70%;
+ }
+ 
+ .img-re{
+	height:300px;
+	width: 95%;
+	float:left;
+	margin:2%;
+	
+	
+ }
+ 
+ .img-curve{
+	border-radius:5px;
+ }
+ .text-rignt{
+ 	text-align: right;
+ }
+
+.text-center{
+	text-align:center;
+}
+a{
+   color:#f94877;
+   text-decoration: none;
+}
+
+a:hover{
+    color: #df2029;
+}
+
+.btn{
+	padding:1%;
+	border:none;
+	font-size:1rem;
+	border-radius:5px;
+}
+.btn-primary{
+	
+	background-color: #f94877;
+	color:white;
+	cursor:pointer;
+	
+}
+.btn-primary:hover{
+	
+	background-color:#df2029;
+	color:white;
+}
+
+h2{
+	color: #2f3542;
+	font-size:2rem;
+	margin-bottom:2%;
+}
+
+h3{
+	margin-bottom:2%;
+	font-size:1.5rem;
+}
+.float-container{
+	position:relative;
+}
+
+.float-text{
+	position:absolute;
+	bottom:40px;
+	left:30%;
+}
+.text-white{
+	color:white;
+}
+
+.clearfix{
+    clear: both;
+    float:none;
+}
+
+/* css for navbar section*/
+
+.logo{
+	
+	width:23%;
+	float: left;
+	clear:both;
+}
+
+.menu{
+    line-height: 110px;
+}
+ .menu ul{
+ 	list-style-type: none;
+
+ }
+.menu ul li{
+	display: inline;
+
+    padding: 1%;
+    font-weight: bold;
+}
+
+/* css for Grocery search section*/
+
+.Grocery-Search{
+	
+	background-image: url('blu.jpg');
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 9% 0;
+	
+}
+
+.Grocery-Search input[type="search"]{
+	
+	width: 50%;
+	padding:1%;
+	font-size:1rem;
+	border: none;
+	border-radius:5px;
+	
+}
+
+.e{
+	margin: 5px auto;
+	border-radius: 5px;
+	border: 1px solid green;
+	background: #33CC00;
+	text-align: left;
+	color: white;
+	padding: 10px;
+
+}
+
+/* css for categories*/
+
+.Categories{
+	padding:4% 0;
+}
+
+.box-3{
+	
+	width: 28%;
+	float:left;
+	margin:2%;
+}
+
+/* css for grocery items*/
+
+.Grocery-items{
+	border-radius:5px;
+	margin-bottom:5%;
+	width:45%;
+	margin:1%;
+	float:left;
+	padding:1%;
+	background-color:white;
+}
+
+.Grocery-item{
+	background-color:#d6d6d6;
+}
+
+.Grocery-item-img{
+	width:40%;
+	float:left;
+	
+}
+
+.Grocery-items-desc{
+	width:70%;
+	float:left;
+	margin-left: 100px;
+}
+
+.Grocery-price{
+	font-size:1.2rem;
+	margin: 2% 0;
+	margin-left:5%;
+	
+}
+.Grocery-detail{
+	font-size:1.2rem;
+	color:
+}
+
+/* css for social-media*/
+
+
+
+
+.menu{
+    line-height: 110px;
+}
+.main ul{
+	list-style-type:none;
+	
+}
+
+.main ul li{
+	
+}
+
+.img-res{
+	width:5%;
+	
+}
+
+
+
+
+/* CSS for grocery items */
+
+
+   
+
+	

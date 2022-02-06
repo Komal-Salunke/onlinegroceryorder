@@ -1,0 +1,25 @@
+body{
+	margin:0;
+	font-family: sans-serif;
+}
+
+.parallax{
+	background-image: url('newimg.jpg');
+	height: max-content;
+	background-attachment:fixed;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover:
+}
+
+.page-title{
+	background:rgba(0,0,0,0.5);
+	text-align:center;
+	color:white;
+	padding:50px;
+	font-variant:small-caps;
+	font-size:100px;
+	font-family:fantasy;
+	letter-spacing:20px;
+	
+}

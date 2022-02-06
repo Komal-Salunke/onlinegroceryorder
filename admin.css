@@ -1,0 +1,132 @@
+*{
+	margin:0;
+	padding:0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper{
+	padding:1%;
+	width:80%;
+	margin:0 auto;
+}
+.text-center{
+	text-align:center;
+}
+
+.clearfix{
+	float:none;
+	clear:both;
+}
+
+.tbl-full{
+	width:100%;
+}
+
+
+
+table tr th{
+	border-bottom:1px solid black;
+	padding:1%;
+	text-align:left;
+}
+
+table tr td{
+	padding:1%;
+}
+
+.btn-primary{
+	background-color:#306EFF;
+	padding:1%;
+	color:white;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.btn-primary:hover{
+	background-color:#0020C2;
+	
+}
+
+.btn-secondary{
+	background-color:#4CC552;
+	padding:1%;
+	color:white;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.btn-secondary:hover{
+	background-color:#3EA055;
+	
+}
+
+.btn-danger{
+	background-color:#FF0000;
+	padding:1%;
+	color:white;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.btn-danger:hover{
+	background-color:#E41B17 ;
+	
+}
+.success{
+	color:#008000;
+}
+
+.error{
+	color:#FF0000;
+}
+
+
+/* footer section*/
+
+.menu{
+    text-align:center;
+	border-bottom:1px solid gray	;
+}
+.menu ul{
+ 	list-style-type: none;
+    line-height: 20px;
+ }
+ 
+ .menu ul li{
+	display: inline;
+    padding: 1%;
+    font-weight: bold;
+}
+
+.menu ul li a{
+	text-decoration:none;
+	font-weight:bold;
+	color: #f94877;
+}
+
+.menu ul li a:hover{
+    color: #df2029;
+}
+
+
+/* css for main content section*/
+.main-content{
+	
+	padding:3% 0;
+	background-color:#ECECEC;
+	
+}
+.col-cd-4{
+	width:20%;
+	background-color:white;
+	margin:1%;
+	padding:2%;
+	float:left;
+}
+
+/* footer section*/
+
+.footer{
+	background-color: #f94877;
+	color:white;
+}

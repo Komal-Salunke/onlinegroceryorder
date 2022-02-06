@@ -1,0 +1,60 @@
+<NotepadPlus>
+    <Project name="grocery project admin">
+        <File name="admin.css" />
+        <File name="admin.php" />
+        <File name="add-admin.php" />
+        <File name="config-admin.php" />
+        <File name="footer.php" />
+        <File name="menu.php" />
+        <File name="manage-admin.php" />
+        <File name="manage-categories.php" />
+        <File name="manage-items.php" />
+        <File name="manage-order.php" />
+        <File name="update-admin.php" />
+        <File name="delete-admin.php" />
+        <File name="update-password.php" />
+        <File name="admin-login.php" />
+        <File name="admin-logout.php" />
+        <File name="admin-login-check.php" />
+    </Project>
+    <Project name="grocery project pages">
+        <File name="index.php" />
+        <File name="stylesheet.css" />
+        <File name="login.php" />
+        <File name="login_process.php" />
+        <File name="logout.php" />
+        <File name="signup.php" />
+        <File name="account.php" />
+        <File name="style.css" />
+        <File name="config.php" />
+        <File name="categories.php" />
+        <File name="stty.css" />
+        <File name="category-items.php" />
+        <File name="sty.css" />
+        <File name="items.php" />
+        <File name="items-search.php" />
+        <File name="order.php" />
+        <File name="sheet.css" />
+        <File name="menu-page.php" />
+        <File name="myindex.php" />
+    </Project>
+    <Project name="Manage category">
+        <File name="manage-categories.php" />
+        <File name="add-category.php" />
+        <File name="delete-category.php" />
+        <File name="update-category.php" />
+    </Project>
+    <Project name="Manage Items">
+        <File name="manage-items.php" />
+        <File name="add-items.php" />
+        <File name="delete-items.php" />
+        <File name="update-items.php" />
+    </Project>
+    <Project name="Add to cart">
+        <File name="action.php" />
+        <File name="cart.php" />
+        <File name="checkout.php" />
+        <File name="configration.php" />
+        <File name="ind.php" />
+    </Project>
+</NotepadPlus>
